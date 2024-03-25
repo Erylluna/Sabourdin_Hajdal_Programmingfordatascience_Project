@@ -314,9 +314,3 @@ def globalplotcomparison(matrix_sizes=[20, 40, 60, 80, 100], sparsity=0.3):
     # Display plot
     plt.show()
 
-
-
-# Function to profile each implemented method
-def profile_methods(matrix_size):
-    # Implement logic to profile each method
-    pass
